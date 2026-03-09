@@ -23,11 +23,11 @@ Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD<
 	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/237-134500-0025.wav" type="audio/wav" />
 </audio>
 <audio style="width:320px" controls="controls">
-	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/61-70968-0038.wav" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP/cw/fp16/672-122797-0037.wav" type="audio/wav" />
 </audio>
 [**adaptive adversarial**: *WER*=0.00, SNR<sub>seg</sub>=-0.60]
 <audio style="width:320px" controls="controls">
-	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/672-122797-0049.wav" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP/cw/fp16/237-134500-0029.wav" type="audio/wav" />
 </audio>
 
 ###### Sample 2 
