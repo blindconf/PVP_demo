@@ -13,21 +13,21 @@ Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD<
 </pre> &nbsp;
 [**benign**: *WER*=0.00],               [**noisy**: *WER*=62.50, SNR<sub>seg</sub>=-4.79]
  <audio style="width:320px" controls="controls">
-	<source src="audio_clips/Librispeech/1995-1837-0013_benign.wav" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/121-127105-0016.wav" type="audio/wav" />
 </audio>
 <audio style="width:320px" controls="controls">
-	<source src="audio_clips/Librispeech/1995-1837-0013_noisy.wav" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/1580-141083-0051.wav" type="audio/wav" />
 </audio>
 [**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=24.50],   [**psychoacoustic**: *WER*=0.00, SNR<sub>seg</sub>=25.36]
  <audio style="width:320px" controls="controls">
-	<source src="audio_clips/Librispeech/1995-1837-0013_cw.wav" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/237-134500-0025.wav" type="audio/wav" />
 </audio>
 <audio style="width:320px" controls="controls">
-	<source src="audio_clips/Librispeech/1995-1837-0013_psy.wav" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/61-70968-0038.wav" type="audio/wav" />
 </audio>
 [**adaptive adversarial**: *WER*=0.00, SNR<sub>seg</sub>=-0.60]
 <audio style="width:320px" controls="controls">
-	<source src="audio_clips/Librispeech/1995-1837-0013_gc.wav" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP/cw/bf16/672-122797-0049.wav" type="audio/wav" />
 </audio>
 
 ###### Sample 2 
