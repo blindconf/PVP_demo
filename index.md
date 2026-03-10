@@ -16,7 +16,7 @@ Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD<
 	<source src="PVP_DEMO_AUDIO/PVP demos/clean/61-70968-0038.flac" type="audio/wav" />
 </audio>
 
-[**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=24.50],   [**psychoacoustic**: *WER*=0.00, SNR<sub>seg</sub>=25.36]
+[**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=24.50],   [**Psychoacoustic adversarial**: *WER*=0.00, SNR<sub>seg</sub>=25.36]
  <audio style="width:320px" controls="controls">
 	<source src="PVP_DEMO_AUDIO/PVP demos/fp32-cw-seq2seq/61-70968-0038.wav" type="audio/wav" />
 </audio>
@@ -34,7 +34,7 @@ Adversarial transcription:  <em>THERE WAS A GRIM SMILE OF AMUSEMENT ON HIS SHREW
 	<source src="PVP_DEMO_AUDIO/PVP demos/clean/61-70968-0058.flac" type="audio/wav" />
 </audio>
 
-[**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=22.04],   [**psychoacoustic**: *WER*=0.00, SNR<sub>seg</sub>=22.95]
+[**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=22.04],   [**Psychoacoustic adversarial**: *WER*=0.00, SNR<sub>seg</sub>=22.95]
  <audio style="width:320px" controls="controls">
 	<source src="PVP_DEMO_AUDIO/PVP demos/fp16 CW-trans/61-70968-0058.wav" type="audio/wav" />
 </audio>
@@ -54,7 +54,7 @@ Adversarial transcription:  <em>WAS SOLLS ICH BIN BEREIT</em>
 	<source src="PVP_DEMO_AUDIO/PVP demos/clean/61-70968-0059.flac" />
 </audio>
 
-[**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=8.86],   [**psychoacoustic**: *WER*=0.00, SNR<sub>seg</sub>=11.23]
+[**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=8.86],   [**Psychoacoustic adversarial**: *WER*=0.00, SNR<sub>seg</sub>=11.23]
  <audio style="width:320px" controls="controls">
 	<source src="PVP_DEMO_AUDIO/PVP demos/bf16-cw-CTC/61-70968-0059.wav" type="audio/wav" />
 </audio>
