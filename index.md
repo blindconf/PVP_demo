@@ -6,8 +6,8 @@ For each sample, we include the word error rate (WER) or the character error rat
 An SNR<sub>seg</sub> exceeding 0 dB indicates a stronger signal presence compared to noise. 
 These samples are sourced from the [*Librispeech*](https://www.openslr.org/12) corpus dataset.
 
-## Librispeech - English
-###### Sample 1 
+## Librispeech
+###### Sample 1 - FP32
 <pre>Benign transcription:       <em>THEN HE LOOKED DOWN THE LAGOON WAS DRY</em>
 Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD</em>
 </pre> &nbsp;
@@ -25,7 +25,7 @@ Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD<
 </audio>
 
 
-###### Sample 2 
+###### Sample 2 - FP16
 <pre>Benign transcription:       <em>HOW JOLLY IT WAS BEING YOUNG HILDA</em>
 Adversarial transcription:  <em>THERE WAS A GRIM SMILE OF AMUSEMENT ON HIS SHREWD FACE</em>
 </pre> &nbsp;
@@ -45,7 +45,7 @@ Adversarial transcription:  <em>THERE WAS A GRIM SMILE OF AMUSEMENT ON HIS SHREW
 
 
 
-###### Sample 3
+###### Sample 3 - BF16
 <pre>Benign transcription:       <em>ICH GLAUBE ES AUCH NICHT</em>
 Adversarial transcription:  <em>WAS SOLLS ICH BIN BEREIT</em>
 </pre> &nbsp;
