@@ -18,7 +18,7 @@ Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD<
 
 [**C&W adversarial**: *WER*=0.00, SNR<sub>seg</sub>=24.50],   [**psychoacoustic**: *WER*=0.00, SNR<sub>seg</sub>=25.36]
  <audio style="width:320px" controls="controls">
-	<source src="PVP_DEMO_AUDIO/PVP demos/fp32-cw-seq2seq" type="audio/wav" />
+	<source src="PVP_DEMO_AUDIO/PVP demos/fp32-cw-seq2seq/61-70968-0038.wav" type="audio/wav" />
 </audio>
 <audio style="width:320px" controls="controls">
 	<source src="PVP_DEMO_AUDIO/PVP demos/fp32-psy-seq2seq" type="audio/wav" />
