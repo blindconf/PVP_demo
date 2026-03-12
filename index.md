@@ -8,8 +8,8 @@ These samples are sourced from the [*Librispeech*](https://www.openslr.org/12) c
 
 ## Librispeech
 ###### Sample 1 - FP32
-<pre>Benign transcription:       <em>THEN HE LOOKED DOWN THE LAGOON WAS DRY</em>
-Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD</em>
+<pre>Benign transcription:       <em>ROBIN FITZOOTH</em>
+Adversarial transcription:  <em>AND ONE MORE THIS MORNING</em>
 </pre> &nbsp;
 [**Benign**: *WER*=0.00],               
  <audio style="width:320px" controls="controls">
@@ -26,8 +26,8 @@ Adversarial transcription:  <em>PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD<
 
 
 ###### Sample 2 - FP16
-<pre>Benign transcription:       <em>HOW JOLLY IT WAS BEING YOUNG HILDA</em>
-Adversarial transcription:  <em>THERE WAS A GRIM SMILE OF AMUSEMENT ON HIS SHREWD FACE</em>
+<pre>Benign transcription:       <em>WILL YOU FORGIVE ME NOW</em>
+Adversarial transcription:  <em>PAUL STICKS TO HIS THEME</em>
 </pre> &nbsp;
 [**benign**: *WER*=0.00],               
  <audio style="width:320px" controls="controls">
@@ -46,8 +46,8 @@ Adversarial transcription:  <em>THERE WAS A GRIM SMILE OF AMUSEMENT ON HIS SHREW
 
 
 ###### Sample 3 - BF16
-<pre>Benign transcription:       <em>ICH GLAUBE ES AUCH NICHT</em>
-Adversarial transcription:  <em>WAS SOLLS ICH BIN BEREIT</em>
+<pre>Benign transcription:       <em>IT WILL BE NO DISAPPOINTMENT TO ME</em>
+Adversarial transcription:  <em>AH VERY WELL</em>
 </pre> &nbsp;
 [**benign**: *WER*=0.00],              
  <audio style="width:320px" controls="controls">
